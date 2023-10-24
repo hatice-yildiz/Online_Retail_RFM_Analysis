@@ -1,24 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-  /* CSS style rules */
-  body {
-    font-family: Arial, sans-serif;
-    margin: 20px;
-  }
-
-  h1 {
-    color: #333;
-  }
-
-  p {
-    font-size: 16px;
-    line-height: 1.5;
-  }
-
-  /* You can add your desired style rules to text elements here. */
-</style>
 </head>
 <body>
   <h1>About RFM Analysis</h1>
@@ -32,6 +14,6 @@
     <strong>Monetary:</strong> The monetary value left by customers. The highest value is good for us. RFM scores should be fewer so that they make sense for us; we create segments over Recency and Frequency scores. The one with low Frequency does not have a high Monetary value, so we remove it from the table. In summary, scores will be created on two dimensions, namely Recency and Frequency.
   </p>
 
-  <img src="https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png" alt="RFM Analysis Visual">
+  <img src="[https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png](https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png)https://cdn.enhencer.com/website-assets/images/blog/AdvantagesAndInefficaciesOfRFMSegmentation1.png" alt="RFM Analysis Visual">
 </body>
 </html>
