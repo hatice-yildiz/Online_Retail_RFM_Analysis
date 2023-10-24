@@ -1,4 +1,4 @@
-!['RFM segments'](img/puzzle.jpg "RFM segments")
+!['RFM segments']([img/puzzle.jpg "RFM segments](https://github.com/hatice-yildiz/Online_Retail_RFM_Analysis/blob/main/RFM_Segments.png)")
 
 *Recency : When did the customer last shop? A smaller value is good for us. 
 When the Recency score is formed, the score of the small value is expressed as large.
