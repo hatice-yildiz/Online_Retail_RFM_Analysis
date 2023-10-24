@@ -1,4 +1,4 @@
-<a href="[https://www.freepik.com/free-photos-vectors/business](https://i0.wp.com/blog.icommkt.com/wp-content/uploads/2021/02/CUADRO.png?ssl=1)">Business vector created by pikisuperstar - www.freepik.com</a>
+!['RFM segments'](img/puzzle.jpg "RFM segments")
 
 *Recency : When did the customer last shop? A smaller value is good for us. 
 When the Recency score is formed, the score of the small value is expressed as large.
